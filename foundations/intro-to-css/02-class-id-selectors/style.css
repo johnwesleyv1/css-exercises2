@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.common {
+    background-color: rgb(255, 125, 225);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+div1 {
+    color: rgb(8, 0, 255);
+    font-size: 36px;
+}
+
+.extra {
+    font-size: 24px;
+}
+
+div2 {
+    background-color: rgb(158, 197, 98);
+    font-size: 24px;
+    font-weight: bold;
+}
